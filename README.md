@@ -1,2 +1,2 @@
 # devops_training
-devops training
+devops
